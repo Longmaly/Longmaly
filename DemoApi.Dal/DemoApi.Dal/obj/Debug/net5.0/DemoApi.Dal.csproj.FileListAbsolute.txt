@@ -1,0 +1,15 @@
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\bin\Debug\net5.0\DemoApi.Dal.deps.json
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\bin\Debug\net5.0\DemoApi.Dal.dll
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\bin\Debug\net5.0\ref\DemoApi.Dal.dll
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\bin\Debug\net5.0\DemoApi.Dal.pdb
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\obj\Debug\net5.0\DemoApi.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\obj\Debug\net5.0\DemoApi.Dal.AssemblyInfoInputs.cache
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\obj\Debug\net5.0\DemoApi.Dal.AssemblyInfo.cs
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\obj\Debug\net5.0\DemoApi.Dal.csproj.CoreCompileInputs.cache
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\obj\Debug\net5.0\DemoApi.Dal.dll
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\obj\Debug\net5.0\ref\DemoApi.Dal.dll
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\obj\Debug\net5.0\DemoApi.Dal.pdb
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\bin\Debug\net5.0\DemoApi.Dal.runtimeconfig.json
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\bin\Debug\net5.0\DemoApi.Dal.runtimeconfig.dev.json
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\obj\Debug\net5.0\DemoApi.Dal.genruntimeconfig.cache
+D:\Other\Projects\Demo\DemoApi.Dal\DemoApi.Dal\obj\Debug\net5.0\DemoApi.Dal.csprojAssemblyReference.cache
